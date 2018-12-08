@@ -4,3 +4,6 @@ file2 line1 from browser
 file2 line1 from computer 
 file2 line1 from computer 
 file2 line1 from computer 
+file 2 line added in firefox bulk change
+file 2 line added in firefox bulk change
+file 2 line added in firefox bulk change
