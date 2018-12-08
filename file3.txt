@@ -6,3 +6,6 @@ file3 line1 added in browser
 file3 line1 added in computer
 file3 line1 added in computer
 file3 line1 added in computer
+file 3 line added in firefox bulk change
+file 3 line added in firefox bulk change
+file 3 line added in firefox bulk change
