@@ -1,3 +1,6 @@
 file2 line1
 file2 line1 from browser
 file2 line1 from browser
+file2 line1 from computer 
+file2 line1 from computer 
+file2 line1 from computer 
