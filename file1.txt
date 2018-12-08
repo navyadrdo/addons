@@ -2,4 +2,7 @@ file 1 line
 file 1 line added in firefox
 file 1 line added in firefox
 file 1 line added in computer.
-
+file 1 line added in firefox bulk change
+file 1 line added in firefox bulk change
+file 1 line added in firefox bulk change
+file 1 line added in firefox bulk change
